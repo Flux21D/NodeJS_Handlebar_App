@@ -1,0 +1,983 @@
+/*Other extra small mobiles*/
+@media screen and (min-width: 220px){
+.seu_box_top{margin-top: 190px;}	
+.navbar-toggle{
+	margin-right:0;	
+	margin-top: 20px;
+}
+.row_color3 {
+	padding: 5px 0 36px 0;	
+}
+.logo1 {
+    width: 78px;
+	margin: 10px 8px 0 0px;
+}
+.logo_caption {
+    font-size: 0.6em;
+}
+.main_menu_nav {
+	margin:0;	
+	height:auto;
+	overflow:auto;
+	
+}
+.top_blue_curve {
+    width: 100%;
+    margin-top: 5px;
+	margin-bottom:0;
+	height: 48px;
+}
+.top_curve_right {
+    width: 35.3%;
+	background-size: 55px;
+	height: 42px;
+}
+.top_curve_box {
+    width: 64.7%;
+	font-size: 0.5em;
+    line-height: 5.5;
+    background-size: 30px 45px;
+	height: 42px;
+}
+.top_inputsearch {
+    margin: 12px 0 10px 0;
+	border-radius: 0px;
+    font-size: 0.7em;
+}
+.back_button{
+	top: 47px;
+	left: 0px;
+    width: 18px;
+    height: 18px;
+    background-size: 18px;	
+	z-index: 20;
+}
+.back_sur{top: 47px; left: -32px;}
+/*milloin*/
+.checklist h3{
+	width:100%;	
+	font-size: 1.0em;
+    margin: 10px 0 0 0;
+}
+.panel-body {
+    padding: 0px;
+}
+.diab_list_cnt {
+    width: 100%;
+    margin: 10px 0 0 0;
+    padding: 0 10px 0 20px;
+}
+.diab_list_cnt li:before{
+	left: -15px;	
+}
+.mil_cnt{
+	margin:0;	
+}
+.mil_pg_img{
+	background-size: 60%;	
+	width: 100px;
+	height: 100px;
+}
+.mil_pg_cnt{
+	font-size: 1em;	
+}
+.mil_tab1, .mil_tab2, .mil_tab3 {
+    display: block;	
+    background-position: left;
+    text-indent: 31px;
+    padding: 10px 20px 10px 20px;
+}
+.mil_tab1:hover, .mil_tab2:hover, .mil_tab3:hover {
+    text-decoration: none;
+}
+.checklist_bottom{
+	margin: 0px 10px 20px 10px;	
+	padding: 10px 20px;
+}
+.checklist_bottom li, .checklist_laakarin li {
+    font-size: 0.9em;
+}
+.checklist_bottom li > ul, .checklist_laakarin li > ul {
+    padding: 2px 5px;
+}
+.milloin_btn button{
+	width:100%;	
+	font-size: 0.6em;
+}
+.milloin_btn button span{
+    background-size: 15px;
+    background-position: 3px 0px;
+	width: 21px;
+    height: 15px;	
+}
+.diab_list_cnt li{
+	font-size: 1.0em;	
+}
+.diab_list_cnt > li > ul{
+    padding: 0 0 0 20px;	
+}
+.footer_menus ul {
+    margin: 0px 0px;
+}
+.footer_top_cnt{
+	/*margin:0;		*/
+}
+.mil_link{
+	margin:0 0 10px 0;	
+}
+.footer_menus{
+	padding:0;	
+}
+.footer_menus_last ul{
+	margin:0;	
+}
+.footer_links ul li a {
+    font-size: 0.5em;
+    padding: 0 4px;
+}
+/*.footer_links ul li:last-child{font-size: 0.5em;
+    padding: 0 4px;}*/
+.footer_links ul{margin:0;}
+.footer_logo{
+    width: 76%;
+    margin: 19px auto;	
+}
+.only_nav1{
+	display:none;	
+}
+.materiaalit_tab {
+    padding: 16px 10px 5px;
+}
+.materiaalit_pdf li{
+    padding: 30px 55px 30px 45px;	
+	font-size: 0.8em;
+}
+.materiaalit_pdf li button{
+    width: 100%;
+    font-size: 0.8em;	
+	top:0;
+}
+.materiaalit_pdf li span{
+    left: 4px;
+    top: 20px;
+}
+.materiaalit_link {
+    margin: 10px 25px;
+    padding: 0;
+}
+/*dignosointi*/
+.mil_main_pg{
+	padding:0;	
+   /* margin-top: 210px;*/
+}
+.mil_pg_cnt{
+	width:100%;
+}
+.diagnosoint_main_block{
+	margin-top:10px;	
+}
+.diagnosointi_md_container h1 {
+    margin: 0 auto;
+    width: 90%;
+    font-size: 1.1em;
+}
+.diagnosointi_md_container{
+	padding: 10px 20px;	
+	width: 100%;
+    margin-bottom: 15px;
+}
+.diagnosoint_block1{
+	padding: 10px 10px;	
+}
+.red_circle{
+		
+}
+.red_caption_text{
+	width: 100%;
+    padding: 10px 10px;	
+    font-size: 0.9em;
+}
+.diagnosoint_block1_sub_cnt{
+	margin: 5px 10px;	
+}
+.red_circle_main{
+    float: right;
+    width: 80%;
+	margin:0 auto;	
+}
+.laakarin figure, .diabeteshoitajan figure {
+    width: 100%;
+    margin: 0 auto;
+}
+
+/*komplikaatiot*/
+.mil_bottom_pg_cnt{
+   font-size: 0.7em;	
+   line-height: 1.5;
+}
+.komplikaatiot_circle figure, .komplikaatiot_pg figure, .komplikaatiot_pg figure, .kuljetusalan_img2 figure{
+    /*width: 100%;*/	
+}
+.komp_bottom_img1, .komp_bottom_img2{
+    background-size: 26px;	
+}
+.komp_bottom_img1, .komp_bottom_img2, .komp_bottom_img3, .seuranta_side_img1, .seuranta_side_img2, .seuranta_side_img3, .seuranta_side_img4, .akuutisti_korkea_verensokeri, .raskaus_ja_diabetes, .tyypin1_diabetes, .kuljetusalan_img2, .ikaantynyt_img1{
+    width: 60px;
+    height: 60px;		
+    /*background-size: 35px;*/
+	margin: 0 auto;
+}
+.seuranta_side_img1, .seuranta_side_img2, .seuranta_side_img3, .seuranta_side_img4{
+	background-size: 35px;	
+	margin:0 auto;
+}
+.mil_pg_img, .dignosointi_box2, .komp_pg_img, .materiaalipankki_pg_icon, .seuranta_pg_img, .laakarin_pg_icon, .laakarin1_pg_icon, .hoitajan_kontrollikaynti_icon, .hoitajan_kaynti_icon, .erityisryhmat_pg_icon, .erityisryhmat_pg, .raskaus_ja_diabetes_pg_icon, .akuutisti_korkea_pg_icon, .tyypin1_diabetes_pg_icon, .hoitopolku_pg_icon{
+    width: 100px;
+    height: 100px;	
+    /*margin-top: 20px;	*/
+}
+.materiaalipankki_pg_icon{
+	background-size: 50px;		
+}
+.seuranta_pg_img{
+	background-size: 59px;	
+}
+.dignosointi_box2{
+    background-size: 70px;	
+}
+.komp_pg_img{
+    background-size: 50px;	
+}
+.ikaantynyt_img1{
+	background-size: 30px;	
+}
+.kuljetusalan_img2{
+    background-size: 48px;		
+}
+/*erityistilanteet*/
+
+.type_diab {
+    margin-top: 160px;
+}
+.seuranta_pg_cnt{
+    font-size: 0.8em;	
+    line-height: 1.5;
+}
+.raskaus_ja_diabetes, .akuutisti_korkea_verensokeri, .tyypin1_diabetes{
+    background-size: 31px;	
+	margin: 0 auto !important;
+}
+
+    
+/*Seuranta*/
+.securanta_side_cir {
+    margin: 20px 0px 0px 0px;
+}
+.materiaalit_pdf_cnt{
+	line-height: 2.1;	
+}
+.akuutisti_korkea_pg_icon{
+    background-size: 40px;	
+}
+.hoitopolku_pg_icon{
+    background-size: 60px;	
+}
+.mil_img{
+    /*width: 55%;*/  
+}
+.footer_top_img{
+      /*width: 80%;*/  
+}
+.mil_cnt{
+    font-size: 1.1em;
+}
+.laakarin1_pg_icon, .hoitajan_kaynti_icon, .hoitajan_kontrollikaynti_icon{
+	background-size: 60px;	
+}
+.laakarin_pg_icon{
+	background-size: 50px;
+}
+.top_fixed_logo, .removeTop {width:236px; padding-top: 8px;}
+.removeTop{margin: 10px 0 13px 0;}
+.dig_btm_block figure { /*margin: 0 16px; width: 63%;*/}
+.seur_laak_mid_tab table{margin: 0 auto;
+    font-size: 0.5em;}
+.seur_laak_mid_block ul {
+    padding: 0 28px;
+    margin: 20px 0 20px 0;
+}
+.diabeteksen_img{height: 154px;}
+.diab_tab table{font-size: 0.3em; }
+.diab_tab table tr td{padding:4px;}
+.akuutit_cnt{margin-bottom: 15px; font-size:1em;}
+.footer_links ul li{
+    line-height: 0.4;	
+    margin: 29px 0 0 0;
+	padding: 0px 0 6px 0;
+	border-left: 1px solid #fff;
+}
+.akuutit_cnt_grp{width:100%; height: 199px;}
+.diab_ksen1{margin: 0px 10px 15px; font-size:0.8em;}
+.diab_ksen2 table{font-size:0.5em;}
+.mil_sub_tabs ul{padding: 0 0px 0 10px;}
+.akuutit_cnt ul > li ul { padding: 0 0 0 15px;}
+.jalkan_align{width: 100%; letter-spacing: 1px;}
+.dig_btm_fig_cnt{ line-height: 1;}
+.footer_align{margin-left:0;}
+.footer_alig{width: 34%;}
+.home_align{margin-top: 180px;}
+.affix{width:100%;}
+.affix.fixed{padding: 0 14px;}
+.search_mob{margin-top: 180px;}
+.search_block{margin: 200px 0 20px 0;}
+.mb-0 > a.collapsed:after, .mb-0 > a:after{right: 7px;}
+.diabeet_cnt_spec4 > ul > li > ul > li:before, .diabeet_cnt_spec5 > ul > li > ul > li:before{left: -16px; top:5px; font-size:0.5em;}
+.popup_button{padding: 20px 0px;  width: 70%;}
+.top_diag{
+	margin-top : 30px !important;
+}
+}
+@media screen and (min-width: 375px){
+	/*.row_color1{margin-right: -25px;}*/
+    #epd{margin-right: -25px;}
+	.top_curve_box{
+		font-size: 0.7em;	
+		line-height: 4;
+	}	
+	.top_curve_right {
+	    background-size: 54px;	
+	}
+	.komplikaatiot_circle figure, .komplikaatiot_pg figure, .komplikaatiot_pg figure, .kuljetusalan_img2 figure {
+		
+	}	
+	.milloin_btn button {
+	    width: 46%;
+	}
+	
+	
+    .row_color3{
+        padding: 5px 0 0px 0;
+    }
+    .mil_link_top{
+        /*margin-top: 20px;*/
+    }
+    .footer_links ul li{
+       /*line-height: 4.5; */
+    }
+    .footer_links ul li a{
+        font-size: 0.4em;
+    }
+	/*.footer_links ul li:last-child{font-size: 0.4em;}*/
+    .footer_links ul{
+        margin:0; 
+    }
+    .materiaalit_pdf li{
+        padding: 20px 20px 20px 45px; 
+    }
+    .materiaalit_pdf li span{
+        top: 13px;
+    }
+	.top_fixed_logo{margin: 10px 0 18px 0;}
+	.seu_box_top{ margin-top: 210px; }
+	.yhtesyst_block{ margin: 190px 0 20px 0;}
+	.hoit_wid figure{ width: 34%;}
+	.main_menu_nav {height:auto; overflow-y:scroll;}
+	.seu_box_wid{width:100%;}
+	
+}
+@media screen and (max-width: 414px){.first_img, .second_img, .third_img, .fourth_img, .fifth_img{background-size: cover !important;
+    width: 70px;
+    height: 70px;
+    margin: 0 auto;
+    margin-top: 15px;}}
+/*Iphone*/
+@media screen and (min-width: 414px){
+/*.top_inputsearch {
+	border-radius: 0px;	
+}*/
+
+.top_blue_curve {
+    width: 100%;	
+    margin-top: 0px;
+    margin-bottom: 30px;
+	margin-left: -30px;
+}
+.top_curve_box {
+    width: 69.7%;
+	font-size: 1.2em;
+    line-height: 3.9;
+    margin-top: 0px;
+    background-size: 35px 66px;
+    height: 66px;
+}
+.top_curve_right {
+    width: 30.3%;
+	height: 82px;
+	margin-top: 0px;
+	background-size: 80px;
+}
+.mil_link{
+	/*margin:20px 0 10px 0;	*/
+}
+.row_color3 {
+	padding:0;
+}
+
+.footer_top_img {
+    /*margin: auto 35px;
+	    width: 40%;*/
+}
+.footer_top_cnt {
+ /*   margin: auto 35px;*/
+}
+.footer_menus ul {
+     margin: 0px 0px; 
+}
+.footer_menus_last ul {
+	margin: 0px 0px;		
+}
+.back_button{
+	top: 40px;
+	left: 40px;
+    width: 48px;
+    height: 32px;
+    background-size: 28px;	
+}
+.back_sur {
+    top: 40px;
+    left: -20px;
+}
+.mil_tab1, .mil_tab2, .mil_tab3{
+	padding: 10px 20px 10px 20px;
+    position: relative;
+    top: 0;
+    left: 0;	
+	background-position: 12px 0px;	
+    display: block;
+	
+}
+.mil_tab1:hover, .mil_tab2:hover, .mil_tab3:hover{
+	text-decoration:none;
+}
+.checklist{
+	margin:0; 
+	padding:0;	
+}
+.checklist h3{
+	width: 63%;
+    padding: 5px 5px 5px 27px;
+    margin-top: 20px;
+}
+.checklist_bottom li > ul, .checklist_laakarin li > ul {
+    padding: 2px 10px;
+}
+.checklist_bottom li > ul > li > ul > li strong {
+    top: -40px;	
+}
+.checklist_bottom{
+	padding: 10px 20px;	
+}
+.checklist_bottom li, .checklist_laakarin li {
+    font-size: 1.0em;	
+}
+.milloin_btn button{
+	width: 24%;	
+    font-size: 0.6em;
+}
+.milloin_btn button span{
+	background-size: 15px;	
+    width: 25px;
+    height: 20px;
+	background-position: 8px 3px;
+}
+.panel-body {
+    padding: 0px;
+}
+.only_nav{
+	opacity:0;		
+}
+.title_nav{
+	opacity:1;	
+}
+.title_nav1{
+	opacity:1;	
+	
+}
+.only_nav1{
+	display:none;	
+}
+.diagnosointi_md_container h1 {
+    margin: 0 auto;
+    width: 40%;
+    font-size: 1.37em;
+}
+.materiaalit_pdf li button {
+    width: 100%;
+    font-size: 0.8em;
+}
+.laakarin figure, .diabeteshoitajan figure {
+    width: 22%;
+}
+.komplikaatiot_circle figure, .komplikaatiot_pg figure, .komplikaatiot_pg figure, .kuljetusalan_img2 figure {
+   
+}
+.komp_bottom_img1, .komp_bottom_img2, .komp_bottom_img3, .seuranta_side_img1, .seuranta_side_img2, .seuranta_side_img3, .seuranta_side_img4, .akuutisti_korkea_verensokeri, .raskaus_ja_diabetes, .tyypin1_diabetes, .kuljetusalan_img2, .ikaantynyt_img1 {
+    width: 80px;
+    height: 80px;
+    margin: 0 auto;
+}
+.kuljetusalan_img2 {
+    background-size: 60px;
+}
+.ikaantynyt_img1 {
+    background-size: 40px;
+}
+.mil_bottom_pg_cnt {
+    font-size: 1.1em;
+    line-height: 1.3;
+}
+.mil_pg_cnt {
+    font-size: 1.3em;
+}
+
+.seuranta_pg_cnt {
+    font-size: 1em;
+    line-height: 1.5;
+}
+.materiaalit_pdf li {
+	font-size: 1em;	
+    padding: 15px 55px 15px 45px;
+}
+.materiaalit_pdf li span{
+    top: 18px;	
+}
+.footer_links ul li a{
+	font-size: 0.6em;	
+}
+/*.footer_links ul li:last-child{font-size: 0.6em;}*/
+.footer_links ul{
+    margin: 0;	
+}
+.back_button {
+    opacity: 1;
+	z-index: 20;
+}
+.raskaus_ja_diabetes, .akuutisti_korkea_verensokeri, .tyypin1_diabetes {
+    background-size: 40px;
+}
+.seuranta_top{
+	top:0;	
+}
+.materiaalit_pdf_cnt {
+    line-height: 2.3;
+}
+.footer_logo{
+    width: 55%; 
+}
+.dig_btm_block figure {
+    /*margin: 0 50px;
+    width: 70%;*/
+}
+.footer_links ul{margin:0;}
+/*.seur_laak_mid_tab table {margin:0 93px;}*/
+.hoit_wid figure{ width: 18%;}
+.main_menu_nav {height:190px; overflow:scroll;}
+.footer_alig { width: 20%;}
+/*.mil_img_res{width:30%;}*/
+
+}
+@media screen and (min-width: 667px) {
+    /*.row_color1{margin-right: -33px;}*/
+    #epd{margin-right: -33px;}
+   .materiaalit_link {
+		margin: 10px 25px;
+		padding: 0;
+	}
+   .mb-0 > a.collapsed:after, .mb-0 > a:after{right: 40px;}
+   .top_fixed_logo{margin: 10px 0 26px 0; width:282px;}
+   .removeTop {width: 282px; margin: 14px 0px 5px 0;}
+   .seur_laak_mid_block ul {
+     padding: 0 105px;
+    margin-bottom: 30px;
+}
+.akuutit_cnt_grp{width:68%; height: 365px;}
+.diab_ksen1{margin:0 80px; font-size:1.12em}
+.diab_ksen2 table{font-size:1.12em;}
+.mil_sub_tabs ul{padding: 0 0px 0 22px;}
+.akuutit_cnt ul > li ul { padding: 0 0 0 35px;}
+.main_menu_nav {height:167px; overflow:scroll;}
+.footer_alig { width: 20%;}
+.footer_links ul li{
+    margin: 34px 0 0 0;
+}
+.seu_box_top {
+    width: 18%;
+}
+.seu_box_wid{width:100%;}
+/*.mil_img_res{width:30%;}*/
+
+}
+@media screen and (min-width: 667px) {
+	.footer_links ul {
+    margin: 0;
+}
+}
+@media screen and (max-width: 753px) {.home_pot{padding: 0;}}
+@media screen and (max-width: 767px) {
+	.main_menu .main_menu_nav>li>a:hover{
+    background-color: #ffffff; color:#797470;}
+	
+	
+}
+
+@media screen and (max-width: 668px){ 
+	.mil_main_pg{padding: 0; margin-top: 210px; }
+}
+/*Ipad*/
+@media screen and (min-width: 768px) {
+	.top_diag{
+	margin-top : 20px !important;
+}
+/*.row{margin-right: -15px;}*/
+    #epd{margin-right: -15px;}
+.materiaalit_link {
+		margin: 10px 35px;
+		padding: 0;
+	}	
+.popup_button{padding: 20px 10px;  width: 60%;}	
+.diabeet_cnt_spec4 > ul > li > ul > li:before, .diabeet_cnt_spec5 > ul > li > ul > li:before{left: -15px; top:4px; font-size: 0.6em;}	
+.ftr_top1{
+	text-indent:13px;
+}
+.ftr_top2{
+	text-indent:13px;
+}
+.ftr_top3{
+	text-indent:9px;
+}
+.ftr_top4{
+	text-indent:9px;
+}
+.ftr_top5{
+	text-indent:20px;
+}	
+.top_fixed_logo{margin: 120px 0 18px 0;}
+.main_menu .main_menu_nav>li>a{
+	padding: 15px 9px 15px 9px;	
+    font-size: 1em;
+}
+.nav_wid{
+	padding:0;	
+}
+.top_img_inner{
+    width: 48%;	
+}
+.mil_img img{
+    margin: 0 auto;	
+}
+.mil_link{
+	/*margin:20px 0 20px 0;	*/
+}
+
+.mil_img{
+   /* margin: auto 38px;*/
+}
+.mil_cnt{
+	margin:0;
+	font-size: 1.5em;		
+}
+.top_curve_box {
+	font-size: 1.2em;	
+	line-height: 3.8;
+	width: 75.7%;
+}
+.top_curve_right {
+	width: 24.4%;	
+}
+.footer_top_img {
+    /*margin: auto 25px;*/
+}
+
+.footer_menus ul, .footer_menus_last ul{
+	margin:0;	
+}
+.footer_links ul li a{
+	font-size: 0.7em;	
+}
+/*.footer_links ul li:last-child{font-size: 0.7em;}*/
+/*Milloin Page*/
+.checklist_bottom li > ul > li > ul > li strong {
+    position: relative;
+    top: -8px;
+    left: 20px;
+}
+.checklist h3 {
+    width: 34%;
+	font-size: 1.37em;
+}
+.milloin_btn button {
+    font-size: 1em;
+    width: 30%;
+}
+
+
+/*Dignosoint*/
+.diagnosointi_md_container h1 {
+    margin: 0 200px 15px;
+}
+.checklist {
+    margin: 10px 0 0px 0;
+}
+
+/*Seuranta*/
+
+
+.komp_bottom_img1, .komp_bottom_img2, .komp_bottom_img3, .seuranta_side_img1, .seuranta_side_img2, .seuranta_side_img3, .seuranta_side_img4, .akuutisti_korkea_verensokeri, .raskaus_ja_diabetes, .tyypin1_diabetes, .kuljetusalan_img2, .ikaantynyt_img1 {
+    width: 100px;
+    height: 100px;
+	/*background-size: 55px;*/
+}
+.seuranta_side_img1, .seuranta_side_img2, .seuranta_side_img3, .seuranta_side_img4{
+	background-size: 55px;	
+	margin:0 auto;
+}
+.komp_bottom_img1, .komp_bottom_img2{
+    background-size: 41px;	
+}
+.mil_pg_img, .dignosointi_box2, .komp_pg_img, .materiaalipankki_pg_icon, .seuranta_pg_img, .laakarin_pg_icon, .laakarin1_pg_icon, .hoitajan_kontrollikaynti_icon, .hoitajan_kaynti_icon, .erityisryhmat_pg_icon, .erityisryhmat_pg, .raskaus_ja_diabetes_pg_icon, .akuutisti_korkea_pg_icon, .tyypin1_diabetes_pg_icon, .hoitopolku_pg_icon {
+    width: 150px;
+    height: 150px;
+}
+.seuranta_pg_cnt {
+    font-size: 1.2em;
+    line-height: 1.2;
+}
+
+/*Komplikaatiot*/
+.komplikaatiot_circle figure, .komplikaatiot_pg figure, .komplikaatiot_pg figure, .kuljetusalan_img2 figure {
+   
+}
+.title_nav1{
+	/*opacity:1;*/	
+	display:none;
+}
+.only_nav1{
+	display:block;	
+}
+.mil_tab1, .mil_tab2, .mil_tab3{
+	background-position: 12px 5px;	
+}
+.materiaalit_pdf li button {
+    width: 100%;
+    font-size: 1.0em;
+}
+.mil_tab1, .mil_tab2, .mil_tab3 {
+    text-indent: 40px;
+}
+.seuranta_pg_img{
+	background-size: 80px;	
+}
+.mil_bottom_pg_cnt {
+    font-size: 1.37em;
+    line-height: 1.3;
+    width: 78%;
+}
+
+.red_caption_text{
+	padding: 20px 10px;	
+    font-size: 1em;
+}
+.materiaalit_pdf li{
+    font-size: 1.12em;	
+}
+.materiaalit_tab {
+    padding: 20px;
+}
+.dignosointi_box2{
+	background-size: 100px;	
+}
+.materiaalipankki_pg_icon{
+	background-size: 80px;		
+}
+.komp_pg_img {
+    background-size: 80px;
+}
+.komp_bottom_img1, .komp_bottom_img2 {
+    background-size: 33px;
+}
+.erityisryhmat_pg_icon{
+    background-size: 90px;		
+}
+.raskaus_ja_diabetes_pg_icon, .tyypin1_diabetes_pg_icon, .akuutisti_korkea_pg_icon{
+	background-size: 70px;	
+}
+.top_blue_curve{
+    margin-top: 10px;	
+	width: 50%;
+}
+.top_inputsearch {
+	border-radius: 8px;
+}
+.main_menu_nav .active .glyphicon-home:before, .glyphicon-home:before {
+	top: -14px;
+    right: 8px;
+}
+.hoitopolku_pg_icon {
+    background-size: 90px;
+}
+.footer_logo{
+    width: 33%; 
+}
+
+.laakarin1_pg_icon, .hoitajan_kaynti_icon, .hoitajan_kontrollikaynti_icon {
+    background-size: 90px;
+}
+.top_inputsearch{
+	font-size: 1em;	
+}
+.dig_btm_block figure {
+    /*margin: 0 156px;*/
+}
+.seur_laak_mid_tab table {/*margin:0 93px;*/ font-size:1.12em;}
+.diab_tab table{font-size: 1.12em;}
+.footer_align{margin-left:6%;}
+.mil_main_pg {
+    padding: 0;
+    margin-top: 20px;
+}
+.home_align{margin-top: 0px;}
+.affix{width:100%;}
+.seu_box_top{ margin-top: 0px; }
+.hoit_wid figure{ width: 40%;}
+.red_circle sup{font-size: 0.8em;}
+.main_menu_nav {height:auto; overflow:scroll;}
+.yhtesyst_block {
+    margin: 0px 0 20px 0;
+}
+.footer_alig { width: 40%;}
+.back_sur { top: 102px;
+    left: -80px;
+}
+.mil_img_res { /*width: 55%;*/}
+.home_pot{padding: 110px 0 140px 0;}
+.search_block{margin: 40px 0 20px 0;}
+}
+@media screen and (min-width: 1025px) {
+.diabeet_cnt_spec4 > ul > li > ul > li:before, .diabeet_cnt_spec5 > ul > li > ul > li:before {
+    left: -15px;
+    top: 2px;
+    font-size: 0.8em;
+}
+}
+/*Desktop*/
+@media screen and (min-width: 1024px) {
+
+.ftr_top1{
+	text-indent:0;
+}
+.ftr_top2{
+	text-indent:0;
+}
+.ftr_top3{
+	text-indent:0;
+}
+.ftr_top4{
+	text-indent:0;
+}
+.ftr_top5{
+	text-indent:0;
+}	
+	.main_menu .main_menu_nav>li>a{
+		padding: 15px 20px 15px 20px;	
+	    font-size: 1.2em;
+	}
+	.logo_caption {
+		font-size: 1.1em;
+	}
+	
+	.top_inputsearch {
+		border-radius: 8px;
+	}
+	.top_curve_right{
+		width: 24.2%;	
+	}
+	.top_curve_box {
+		width: 75.8%;	
+		font-size: 1.7em;
+		line-height: 2.5;
+	}
+	.top_blue_curve {
+    	width: 48.9%;
+	    margin-top: 20px;
+	}
+.footer_links ul li a {
+     font-size: 0.8em; 
+     padding: 0 4px; 
+	}
+	/*.footer_links ul li:last-child{font-size: 0.8em; 
+         padding: 2px 0px 0 4px;}*/
+.title_nav1{
+	opacity:0;	
+	display:none;
+}
+.only_nav1{
+	display:block;	
+}
+
+.diagnosointi_md_container h1 {
+    margin: 0 auto;
+    width: 20%;
+    font-size: 1.37em;
+}
+.securanta_side_cir {
+    margin: 110px 0px 0px 0px;
+}
+.mil_pg_cnt {
+    font-size: 1.5em;
+}
+.materiaalit_pdf li {
+    padding: 15px 10px 15px 70px;
+    font-size: 1.12em;
+}
+.materiaalit_pdf li span {
+    left: 25px;
+    top: 16px;
+}
+.red_caption_text{
+	font-size: 1.2em;	
+}
+.milloin_btn button{
+    width: 24%;	
+}
+.milloin_btn button span{
+    height: 20px;
+    background-position: 10px 3px;
+}
+.seuranta_top{
+    position: relative;
+    top: -68px;	
+}
+.nav_wid {
+    padding: 0 10px;
+}
+.footer_logo{
+   width: 27%; 
+}
+.checkbox_align{
+	left:32px;	
+}
+.footer_links ul li{
+    margin: 0px 0 0 0;
+	padding: 0px 0 0px 0; 
+    border-left: 2px solid #fff;
+}
+.seu_box_top{ margin-top: 0px; }
+.main_menu_nav {height:auto; overflow:auto;}
+.yhtesyst_block {
+    margin: 0px 0 20px 0;
+}
+.seu_box_wid{width:100%;}
+.home_pot{padding: 0;}
+}
+
+.tipue_search_content_url a, .materiaalit_link li a{ word-break:break-all; word-wrap:break-word;}

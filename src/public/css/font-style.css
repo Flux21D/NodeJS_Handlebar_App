@@ -1,0 +1,18 @@
+@charset "utf-8";
+/* CSS Document */
+
+.logo_caption, .card-header h5 a, .checklist_bottom li p, .seur_laak_mid_block h3{
+font-family: 'DINBold';
+}
+
+.main_menu_nav li a, .banner_txt, .mil_cnt, .komplokaatiot_cnt, .erityistapaukset_cnt, .erityispotilaat_cnt, .materiaali_Pankki_cnt, .mil_tab li a, .checklist h3, .materiaalit_pdf, .materiaalit_link li, .diagnosointi_md_container h1, .diagnosoint_block1_sub_cnt, .red_circle sup, .laakarin_cnt, .mil_pg_cnt, .mil_bottom_pg_cnt, .top_img_inner, .footer_top_cnt, .footer_menus ul li a, .footer_menus_last ul li a, .footer_links ul li a, .milloin_btn button, .dig_btm_cnt p, .dig_btm_fig_cnt, .akuutit_cnt h2, .iakkaiden_sub_head{
+	font-family: 'DINPro-Medium';	
+}
+
+.diab_list_cnt li, .checklist_bottom li, .red_circle, .diagnosoint_block1, .checklist_laakarin li, .hoitopolku_sub_head1, .hoitopolku_box1 li, .hoitopolku_box2 li, .hoitopolku_box3 li, .hoitopolku_box4 li, .hoitopolku_box5 li, .hoitopolku_box6 li, .hoitopolku_box7 li, .hoitopolku_box8 li, .hoitopolku_box9 li, .hoitopolku_box10 li, .seur_laak_mid_block ul li, .seur_laak_mid_tab table, .akuutit_cnt ul li, .akuutit_cnt h4, .diab_num ol li, .diab_num ol li span, .mil_sub_tabs ul li{
+	font-family: 'DINPro';
+}
+
+.dig_btm_block h3{
+font-family: 'DINPro-Bold';	
+}

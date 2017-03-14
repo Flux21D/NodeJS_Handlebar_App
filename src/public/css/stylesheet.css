@@ -1,0 +1,1776 @@
+.top_diag{
+	margin-top : 20px;
+}
+.row_color1 {
+	background-color: #d52b1e;
+}
+.row_color2 {
+	background-color: #ffffff;
+}
+/*.home_ico {
+	position: absolute;
+	border: 0;
+	outline: 0;
+	background: url(../images/home1.png);
+	background-repeat: no-repeat;
+	width: 16px;
+	height: 13px;
+	left: 16px;
+	top: 18px;
+	background-size: 16px;
+}*/
+.main_menu_nav li:nth-child(1) a .home_ico:hover {
+	position: absolute;
+	border: 0;
+	outline: 0;
+	background: url(../images/home.png);
+	background-repeat: no-repeat;
+	width: 16px;
+	height: 13px;
+	left: 10px;
+	top: 18px;
+	background-size: 16px;
+}
+.row_color3 {
+	background-color: #d5d2cb;
+	padding: 36px 0;
+}
+.row_color4 {
+	background-color: #d64c42;
+	background-image: url(../images/bg_1.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding: 30px 0;
+}
+.row_color5 {
+	background-color: #edecea;
+	padding: 20px 0;
+}
+.row_color6 {
+	background-color: #a59e96;
+	padding: 10px 0;
+	border-bottom: 2px solid #ffffff;
+    border-top: 2px solid #ffffff;
+}
+.no-padding {
+	padding: 0px;
+}
+.logo1 {
+	float: left;
+	width: 80px;
+	margin: 10px 0;
+}
+.logo_caption {
+	float: left;
+	border-left: 2px solid #fff;
+	padding-left: 10px;
+	color: #fff;
+	margin-top: 24px;
+	font-size: 0.8em;
+	text-transform: uppercase;
+}
+.top_inputsearch {
+	margin-top: 12px;
+	background: #e6e6e6;
+	-webkit-border-radius: 12px;
+	border-radius: 8px;
+	width: 100%;
+	padding-left: 12px;
+	padding-right: 36px;
+	height: 34px;
+	color: #bdaea9;
+	border: 0;
+	outline: 0;
+}
+.top_search {
+	position: relative;
+}
+.search_btn1 {
+	position: absolute;
+	border: 0;
+	outline: 0;
+	background: url(../images/search_icon.png);
+	background-repeat: no-repeat;
+	width: 25px;
+	height: 25px;
+	right: 22px;
+	top: 22px;
+	background-size: 16px;
+	z-index: 500;
+}
+.main_menu_nav .active .glyphicon-home:before, .glyphicon-home:before {
+	content: "";
+	background: url(../images/home.png);
+	background-repeat: no-repeat;
+	width: 18px;
+	height: 16px;
+	position: absolute;
+}
+.main_menu_nav .glyphicon-home:before {
+	content: "";
+	background: url(../images/home1.png);
+	background-repeat: no-repeat;
+	width: 18px;
+	height: 16px;
+	position: absolute;
+}
+.main_menu_nav>li:first-child:hover .glyphicon-home:before {
+	content: "";
+	background: url(../images/home.png);
+	background-repeat: no-repeat;
+	width: 18px;
+	height: 16px;
+	position: absolute;
+}
+.main_menu_nav>li a:first-child:hover .glyphicon-home:before {
+	content: "";
+	background: url(../images/home.png);
+	background-repeat: no-repeat;
+	width: 18px;
+	height: 16px;
+	position: absolute;
+}
+.main_menu {
+	background-color: transparent;
+	border-color: #fff;
+	-webkit-border-radius: 0;
+	border-radius: 0;
+	border: 0;
+	margin: 0;
+}
+.main_menu_nav {
+	margin: 0 0 0 40px;
+}
+.main_menu_nav>li {
+	color: #82786f;
+	padding: 0;
+}
+.main_menu_nav:first-child>li span {
+	padding-right: 17px;/*21*/
+}
+.main_menu_nav>li a:hover {
+	background-color: #d52b1e;
+	color: #fff;
+}
+.main_menu_nav>li a:hover {
+	color: #fff;
+}
+.main_menu .main_menu_nav>li>a {
+	padding: 15px 32px;
+	color: #797470;
+	font-size: 1.1em;
+}
+/*.main_menu .main_menu_nav>li>a:first-child{
+	padding: 15px 32px 15px 40px;		
+}*/
+.main_menu .main_menu_nav>li>a:hover {
+	color: #fff;
+	background-color: #d52b1e;
+}
+/*.main_menu .main_menu_nav>.active>a {
+	color: #fff;
+	background: #d52b1e;
+}
+.main_menu .main_menu_nav>.active>a:hover, .main_menu .main_menu_nav>.active>a:focus {
+	color: #fff;
+	background: #d52b1e;
+}*/
+.main_menu .main_menu_nav>.active>a:hover li a {
+	background-color: #d52b1e;
+}
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
+	color: #fff;
+	background-color: #d52b1e;
+}
+.banner_txt {
+	background-image: url(../images/banner_top.jpg);
+	background-repeat: no-repeat;
+	background-size: contain;
+}
+/*Middle content of index*/
+.mil_img img, .mil_pg_img img {
+	/*margin: auto 88px;*/
+	margin: 0 auto;
+	border-radius: 50%;
+    overflow: hidden;
+}
+.mil_img {
+	/*width: 56%;*/
+	margin: 0 auto;
+}
+.mil_pg_img, .dignosointi_box2, .komp_pg_img, .materiaalipankki_pg_icon, .seuranta_pg_img, .laakarin_pg_icon, .laakarin1_pg_icon, .hoitajan_kontrollikaynti_icon, .hoitajan_kaynti_icon, .erityisryhmat_pg_icon, .erityisryhmat_pg, .raskaus_ja_diabetes_pg_icon, .akuutisti_korkea_pg_icon, .tyypin1_diabetes_pg_icon, .hoitopolku_pg_icon {
+	width: 150px;
+	height: 150px;
+	position: relative;
+	top: 0px;
+	left: 0px;
+	right: 0px;
+	margin: auto;
+	z-index: 2;
+	border-radius: 50%;
+	border: 8px solid #e0e1db;
+}
+.dignosointi_box2 {
+	background: url(../images/dignosointi_box2_img1.png) no-repeat;
+	background-position: center;
+	background-color: #FFFFFF;
+}
+.laakarin_pg_icon {
+	background: url(../images/laakarin_pg_icon.png) no-repeat;
+	background-position: center;
+	background-color: #FFFFFF;
+}
+.laakarin1_pg_icon {
+	background: url(../images/laakarin1_pg_icon.png) no-repeat;
+	background-position: center;
+	background-color: #FFFFFF;
+}
+.hoitajan_kontrollikaynti_icon {
+	background: url(../images/hoitajan_kontrollikaynti_icon.png) no-repeat;
+	background-position: center;
+	background-color: #FFFFFF;
+}
+.hoitajan_kaynti_icon {
+	background: url(../images/hoitajan_kaynti_icon.png) no-repeat;
+	background-position: center;
+	background-color: #FFFFFF;
+}
+.komp_bottom_img1, .komp_bottom_img2, .komp_bottom_img3, .seuranta_side_img1, .seuranta_side_img2, .seuranta_side_img3, .seuranta_side_img4, .akuutisti_korkea_verensokeri, .raskaus_ja_diabetes, .tyypin1_diabetes, .kuljetusalan_img2, .ikaantynyt_img1 {
+	width: 80px;
+	height: 80px;
+	position: relative;
+	top: 0px;
+	left: 0px;
+	right: 0px;
+	/*margin: auto;*/
+	z-index: 2;
+	border-radius: 50%;
+}
+.seuranta_side_img1 {
+	background: url(../images/seuranta_logo1.png) no-repeat;
+	background-color: #4aa7c9;
+	background-position: center;
+}
+.seuranta_side_img2 {
+	background: url(../images/seuranta_logo2.png) no-repeat;
+	background-color: #4aa7c9;
+	background-position: center;
+}
+.seuranta_side_img3 {
+	background: url(../images/seuranta_logo3.png) no-repeat;
+	background-color: #263f6a;
+	background-position: center;
+}
+.seuranta_side_img4 {
+	background: url(../images/seuranta_logo4.png) no-repeat;
+	background-color: #263f6a;
+	background-position: center;
+}
+..komp_bottom_img1, .komp_bottom_img2, .komp_bottom_img3, .seuranta_side_img1, .seuranta_side_img2, .seuranta_side_img3, .seuranta_side_img4, .akuutisti_korkea_verensokeri, .raskaus_ja_diabetes, .tyypin1_diabetes, .kuljetusalan_img2, .ikaantynyt_img1 {
+ margin:0 auto;
+}
+.komp_bottom_img1 {
+	background: url(../images/komp_bottom_img1.png) no-repeat;
+	background-color: #a59d95;
+	background-position: center;
+}
+.komp_bottom_img2 {
+	background: url(../images/komp_bottom_img2.png) no-repeat;
+	background-color: #a59d95;
+	background-position: center;
+}
+.komp_bottom_img3 {
+	background: url(../images/komp_bottom_img3.png) no-repeat;
+	background-color: #a59d95;
+	background-position: center;
+    width: 80px;
+    height: 80px;
+}
+.mil_pg_img {
+	background: url(../images/milloin_box1.png) no-repeat;
+	background-position: center;
+	background-color: #FFFFFF;
+}
+.komp_pg_img {
+	background: url(../images/komplikaatiot_logo.png) no-repeat;
+	background-position: center;
+	background-color: #FFFFFF;
+}
+.materiaalipankki_pg_icon {
+	background: url(../images/materiaalipankki_icon.png) no-repeat;
+	background-position: center;
+	background-color: #FFFFFF;
+}
+.seuranta_pg_img {
+	background: url(../images/seuranta_pg_logo.png) no-repeat;
+	background-position: center;
+	background-color: #FFFFFF;
+}
+.raskaus_ja_diabetes {
+	background: url(../images/raskaus_ja_diabetes.png) no-repeat;
+	background-color: #4e2e2d;
+	background-position: center;
+}
+.akuutisti_korkea_verensokeri {
+	background: url(../images/akuutisti_korkea_verensokeri.png) no-repeat;
+	background-color: #4e2e2d;
+	background-position: center;
+}
+.tyypin1_diabetes {
+	background: url(../images/tyypin1_diabetes.png) no-repeat;
+	background-color: #4e2e2d;
+	background-position: center;
+}
+.raskaus_ja_diabetes_pg_icon {
+	background: url(../images/raskaus_ja_diabetes1.png) no-repeat;
+	background-position: center;
+	background-color: #ffffff;
+}
+.akuutisti_korkea_pg_icon {
+	background: url(../images/akuutisti_korkea_verensokeri1.png) no-repeat;
+	background-position: center;
+	background-color: #ffffff;
+}
+.tyypin1_diabetes_pg_icon {
+	background: url(../images/tyypin1_diabetes1.png) no-repeat;
+	background-position: center;
+	background-color: #ffffff;
+}
+.securanta_side_cir {
+	margin: 110px 0px 0px 0px;
+}
+.securanta_side_cir1 {
+	margin: 20px 0px 0px 0px;
+}
+.securanta_side_cir figure {
+	width: 53%;
+	margin: 0 auto;
+	overflow: hidden;
+    border-radius: 50%;
+}
+.dig_btm_block figure{
+	
+	display: inline-block;
+    margin: 0 auto;
+    border-radius: 50%;
+    overflow: hidden;
+    padding: 0;
+}
+.securanta_side_cir1 figure {
+	
+	/*margin: 0 42px;*/
+	width: 53%;
+    margin: 0 auto;
+	overflow: hidden;
+    border-radius: 50%;
+}
+.seuranta_pg_title {
+	width: 50%;
+	margin: 0 auto;
+}
+.erityisryhmat_pg_icon {
+	background: url(../images/erityistilanteet_pg_icon.png) no-repeat;
+	background-position: center;
+	background-color: #FFFFFF;
+}
+.erityisryhmat_pg {
+	background: url(../images/erityisryhmat_pg.png) no-repeat;
+	background-position: center;
+	background-color: #FFFFFF;
+}
+.ikaantynyt_img1 {
+	background: url(../images/ikaantynyt_img1.png) no-repeat;
+	background-position: center;
+	background-color: #d3bf96;
+}
+.kuljetusalan_img2 {
+	background: url(../images/kuljetusalan_img2.png) no-repeat;
+	background-position: center;
+	background-color: #d3bf96;
+}
+.hoitopolku_pg_icon {
+	background: url(../images/hoitopolku_icon.png) no-repeat;
+	background-position: center;
+	background-color: #ffffff;
+}
+.type_diab {
+	margin-top: 90px;
+}
+.mil_pg_img img {
+	margin: 0 auto;
+}
+.mil_cnt {
+	font-size: 1.37em;
+	color: #d52b1e;
+	text-align: center;
+	margin: auto 88px;
+}
+.mil_cnt a {
+	color: #d52b1e;
+}
+.materiaalipankki_cnt {
+	color: #000000 !important;
+}
+.mil_link a:focus, .mil_link a:hover {
+	text-decoration: none;
+}
+.middle_margin {
+	margin-top: 50px;
+}
+.mil_main_pg {
+	position: relative;
+	padding: 30px 30px;
+	margin: 0 auto;/*width: 583px;*/
+}
+.mil_pg_cnt {
+	width: 40%;
+	position: relative;
+	top: -21px;
+	left: 6px;
+	font-size: 1.5em;
+	color: #d52b1e;
+	line-height: 40px;
+	margin: 0 auto;
+	padding: 10px 0 0 0;
+	text-align: center;
+	background: -moz-linear-gradient(left, rgba(223,224,218,0) 0%, rgba(222,223,217,1) 32%, rgba(222,223,217,1) 70%, rgba(222,223,217,0.97) 71%, rgba(223,224,218,0) 100%);
+	background: -webkit-linear-gradient(left, rgba(223,224,218,0) 0%, rgba(222,223,217,1) 32%, rgba(222,223,217,1) 70%, rgba(222,223,217,0.97) 71%, rgba(223,224,218,0) 100%);
+	background: linear-gradient(to right, rgba(223,224,218,0) 0%, rgba(222,223,217,1) 32%, rgba(222,223,217,1) 70%, rgba(222,223,217,0.97) 71%, rgba(223,224,218,0) 100%);
+ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00dfe0da', endColorstr='#00dfe0da', GradientType=1 );
+}
+.seuranta_wid {
+	width: 100%;
+}
+.mil_bottom_pg_cnt {
+	position: relative;
+	font-size: 1.37em;
+	color: #000000;
+	line-height: 40px;
+	margin: 0 auto;
+	padding: 5px 0 0 0;
+	text-align: center;
+}
+.mil_bottom_pg_cnt a {
+	color: #000000;
+}
+.seuranta_pg_cnt {
+	position: relative;
+	font-size: 1em;
+	color: #000000;
+	line-height: 20px;
+	/*margin: 0 20px;*/
+	padding: 5px 0 0 0;
+	text-align: center;
+}
+.komplikaatiot_circle {
+	margin: 0 auto;
+}
+.komplikaatiot_circle figure, .komplikaatiot_pg figure, .komplikaatiot_pg figure, .kuljetusalan_img2 figure {
+	width: 16%;
+	margin: 0 auto;
+}
+.seuranta_pg_cnt a {
+	color: #000000;
+}
+/*Milloin page*/
+.mil_tab {
+	border-bottom: 2px solid #d52b1e;
+	margin-top: 10px;
+}
+.mil_tab li a {
+	background-color: #ffffff;
+	color: #000000;
+	font-size: 1.37em;
+}
+.active a:hover {
+	background-color: #d52b1e;
+	color: #ffffff;
+}
+.mil_tab1 {
+	background-image: url(../images/checklist.png);
+	background-repeat: no-repeat;
+	background-size: 42px;
+	background-position: center;
+	text-indent: 45px;
+}
+li a .mil_tab1 {
+	padding: 10px 20px 10px 50px;
+}
+.mil_tab2 {
+	background-image: url(../images/materiaalit.png);
+	background-repeat: no-repeat;
+	background-size: 42px;
+	background-position: center;
+	text-indent: 45px;
+}
+.mil_tab3 {
+	background-image: url(../images/link.png);
+	background-repeat: no-repeat;
+	background-size: 42px;
+	background-position: center;
+	text-indent: 45px;
+}
+.nav-pills>li.active>a, .nav-pills>li.active>a:focus, .nav-pills>li.active>a:hover {
+	background-color: #d52b1e;
+	color: #ffffff;
+}
+.tab_cnt {
+	background-color: #ffffff;
+	margin-bottom: 30px;
+}
+.checklist {
+	margin: 10px 0 0px 0;
+	padding: 0 0 30px 0;
+}
+.checklist h3 {
+	font-size: 1.37em;
+	background-color: #000000;
+	color: #ffffff;
+	width: 22%;
+	padding: 10px 10px 10px 37px;
+}
+.diab_list_cnt {
+	width: 80%;
+}
+.raskus_top {
+	margin: 15px 0px;
+}
+.diab_list_cnt ul {
+	margin: 0px 0px;
+	padding: 0;
+}
+.diab_list_cnt > li > ul {
+	margin: 0px 0px 10px 0px;
+	padding: 0 0 0 30px;
+}
+.diab_list_cnt li {
+	list-style: none;
+	position: relative;
+	font-size: 1.12em;
+	line-height: 25px;
+	margin-bottom: 10px;
+}
+.diab_list_cnt li:before {
+	position: absolute;
+	content: '';
+	background-image: url(../images/arrow.png);
+	left: -20px;
+	top: 8px;
+	background-size: 8px;
+	background-repeat: no-repeat;
+	width: 8px;
+	height: 14px;
+}
+.diab_list_cnt > li > ul li:before {
+	position: absolute;
+	background-image: none;
+	content: '•';
+	font-size: 1em;
+	color: #000000;
+	left: -13px;
+	top: 0px;
+}
+.diab_list_cnt li a {
+	
+}
+.diab_list_cnt li a:hover {
+	background-color: #ffffff;
+	color: #337ab7;
+	text-decoration: underline;
+}
+ul checklist_bottom {
+	margin: 0;
+}
+.checklist_bottom {
+	background-color: #d52b1e;
+	color: #ffffff;
+	margin: 0px 20px 20px 20px;
+	border-radius: 10px;
+	padding: 20px 30px;
+}
+.checklist_laakarin {
+	color: #000000;
+	padding: 20px 30px;
+}
+.checklist_laakarin > li > ul {
+	margin: 0px 0px 10px 0px;
+	padding: 0 0 0 30px;
+}
+.checklist_bottom li span, .checklist_laakarin li span {
+	position: absolute;
+	top: 7px;
+	left: -11px;
+	content: '';
+	background-repeat: no-repeat;
+	width: 8px;
+	height: 14px;
+}
+.checklist_bottom li span {
+	background-image: url(../images/arrow_white.png);
+	background-size: 8px;
+}
+.checklist_laakarin li span {
+	background-image: url(../images/arrow.png);
+	background-size: 8px;
+}
+.checklist_bottom li, .checklist_laakarin li {
+	list-style: none;
+	position: relative;
+	font-size: 1.12em;
+	line-height: 25px;
+	margin: 0 0 4px 0;
+}
+.checklist_bottom li > ul, .checklist_laakarin li > ul {
+	padding: 2px 30px;
+}
+.checklist_bottom li > ul > li:before {
+	position: absolute;
+	background-image: none;
+	content: '•';
+	font-size: 1em;
+	color: #ffffff;
+	left: -13px;
+	top: 0px;
+}
+.checklist_laakarin li > ul > li:before {
+	position: absolute;
+	background-image: none;
+	content: '•';
+	font-size: 1em;
+	color: #000000;
+	left: -13px;
+	top: 0px;
+}
+.checklist_bottom li > ul > li > ul > li:before {
+	content: '';
+}
+.checklist_bottom li > ul > li > ul > li span, .checklist_laakarin li > ul > li > ul > li span {
+	background-image: none;
+	top: -1px;
+	left: -10px;
+}
+.checklist_bottom li > ul > li > ul > li strong {
+	float: right;/*border: 1px solid #ffffff;*/
+}
+.checklist_laakarin li strong {
+	position: relative;
+	top: 10px;
+	float: right;
+	border: 1px solid #bcb7b1;
+	width: 10px;
+	height: 10px;
+}
+.checklist_laakarin li a {
+	text-decoration: underline;
+}
+.checklist_laakarin li a:hover {
+	background-color: #ffffff;
+	color: #000000;
+}
+.milloin_btn {
+	text-align: center;
+}
+.milloin_btn button {
+	color: #d52b1e;
+	font-size: 1.12em;
+	width: 23%;
+	text-align: left;
+	-webkit-box-shadow: -1px 8px 42px -5px rgba(0,0,0,0.75);
+	-moz-box-shadow: -1px 8px 42px -5px rgba(0,0,0,0.75);
+	box-shadow: -1px 8px 42px -5px rgba(0,0,0,0.75);
+}
+.milloin_btn button span {
+	position: absolute;
+	background-image: url(../images/arrow_right.png);
+	background-repeat: no-repeat;
+	background-size: 17px;
+	background-position: 12px 2px;
+	text-indent: 45px;
+	width: 30px;
+	height: 20px;
+}
+.materiaalit_tab {
+	padding: 20px;
+}
+.materiaalit_tab ul {
+	margin: 0;
+	padding: 0;
+}
+.materiaalit_pdf li {
+	position: relative;
+	list-style: none;
+	background-color: #e0dfda;
+	font-size: 1.12em;
+	border-radius: 10px;
+	margin-bottom: 10px;
+	padding: 20px 10px 20px 70px;
+	overflow: hidden;
+}
+.materiaalit_pdf a li {
+	color: #000000;
+	text-decoration: none;
+}
+.materiaalit_pdf a li:hover {
+	color: #000000;
+	text-decoration: none;
+}
+.materiaalit_pdf a:hover {
+	text-decoration: none;
+}
+.materiaalit_pdf li span {
+	position: absolute;
+	background-image: url(../images/pdf_icon.png);
+	background-repeat: no-repeat;
+	background-size: 30px;
+	background-position: 5px 2px;
+	text-indent: 30px;
+	width: 40px;
+	height: 32px;
+	left: 25px;
+	top: 12px;
+}
+.materiaalit_pdf li button {
+	float: right;
+	position: relative;
+	top: -7px;
+	right: 0;
+	color: #ffffff;
+	background-color: #d52b1e;
+	width: 17%;
+	font-size: 1.2em;
+	min-width: 150px;
+}
+.materiaalit_link {
+	margin: 30px 40px;
+	padding: 0;
+}
+.materiaalit_link li {
+	list-style: none;
+	position: relative;
+	line-height: 28px;
+	font-size: 1em;
+}
+.materiaalit_link li:nth-child(16) {
+	margin-top: 20px;
+}
+.materiaalit_link li span {
+	position: absolute;
+	background-image: url(../images/arrow.png);
+	left: -15px;
+	top: 9px;
+	background-size: 8px;
+	background-repeat: no-repeat;
+	width: 8px;
+	height: 14px;
+}
+.materiaalit_link li a {
+	text-decoration: underline;
+}
+.materiaalit_link li a:hover {
+	background-color: #ffffff;
+	color: #000000;
+	text-decoration: none;
+}
+.milloin_tab li {
+	margin-right: 10px;
+}
+/*diagnosointi*/
+.diagnosointi_md_container {
+	background-color: #ffffff;
+	padding: 30px 40px;
+	float: left;
+}
+.diagnosointi_md_container h1 {
+	text-align: center;
+	font-size: 1.37em;
+	margin: 0 403px 10px 403px;
+}
+.diagnosoint_block1 {
+	overflow: hidden;
+	position: relative;
+	background-color: #a59d95;
+	padding: 10px 40px;
+	color: #ffffff;
+}
+.diagnosoint_block1 span {
+	font-size: 1em;
+	background-color: #d52b1f;
+	color: #ffffff;
+	border-radius: 50%;
+	border: 2px solid #ffffff;
+	padding: 30px 1px;
+	margin: 0 20px 0 0;
+}
+.red_circle sup {
+	position: relative;
+	top: -40px;
+	left: 13px;
+	color: #d52b1e;
+	font-size: 1.12em;
+}
+.diagnosoint_block1_sub_cnt {
+	font-size: 1.2em;
+	color: #000000;
+	margin: 5px 121px;
+}
+.laakarin, .diabeteshoitajan {
+	margin: 30px 0;
+}
+.laakarin figure, .diabeteshoitajan figure {
+	width: 16%;
+	margin: 0 auto;
+}
+.dig_align img {
+	margin: 0 auto;
+}
+.laakarin_cnt, .diabeteshoitajan_cnt {
+	font-size: 1em;
+	color: #000000;
+	text-align: center;
+}
+.laakarin_cnt a, .diabeteshoitajan_cnt a {
+	color: #000000;
+}
+.laakarin_cnt a:hover, .diabeteshoitajan_cnt a:hover {
+	color: #000000;
+	background-color: #ffffff;
+	text-decoration: none;
+}
+.red_circle {
+	float: left;
+	font-size: 1em;
+	background-color: #d52b1f;
+	color: #ffffff;
+	-webkit-border-radius: 50%;
+	-moz-border-radius: 50%;
+	ms-border-radius: 50%;
+	border-radius: 50%;
+	border: 2px solid #ffffff;
+	padding: 22px 16px;
+	margin: 0 20px 0 0;
+	width: 80px;
+	height: 80px;
+	text-align: center;
+	line-height: 1;
+}
+.red_caption_text {
+	float: left;
+	position: relative;
+	background-color: #a59d95;
+	padding: 30px 20px;
+	color: #f7f6f4;
+	font-size: 1em;
+	width: 67%;
+}
+/*back_button*/
+.back_button {
+	position: relative;
+	float: left;
+	top: 0;
+	left: 50px;
+	background: url(../images/back_button.png) no-repeat;
+	width: 48px;
+	height: 31px;
+}
+.hoitopolku_container {
+	/*background-image: url(../images/hoitopolku_cnt_bg.png);
+	background-repeat:no-repeat;
+	width:85%;
+	height: 1040px;*/
+	width: 84%;
+	margin: 0 auto;
+	background-size: contain;
+	margin-bottom: 30px;
+}
+.hoitopolku_container img {
+	max-width: 100%;
+}
+.hoitopolku_container_arrow {
+	background: url(../images/hoitopolku_cnt_arrow.png) no-repeat;
+	width: 782px;
+	height: 679px;
+	position: relative;
+	top: 105px;
+	left: 85px;
+}
+.hoitopolku_head {
+	position: relative;
+	bottom: 330px;
+	right: 434px;
+	font-size: 1.87em;
+	color: #ffffff;
+	-ms-transform: rotate(270deg); /* IE 9 */
+	-webkit-transform: rotate(270deg); /* Chrome, Safari, Opera */
+	transform: rotate(270deg);
+	width: 50%;
+	margin: 0 auto;
+}
+.hoitopolku_sub_head1, .hoitopolku_sub_head2, .hoitopolku_sub_head3, .hoitopolku_sub_head4, .hoitopolku_sub_head5 {
+	position: absolute;
+	font-size: 1em;
+	color: #ffffff;
+	-ms-transform: rotate(270deg); /* IE 9 */
+	-webkit-transform: rotate(270deg); /* Chrome, Safari, Opera */
+	transform: rotate(270deg);
+}
+.hoitopolku_sub_head1 {
+	top: 100px;
+	left: 190px;
+}
+.hoitopolku_sub_head2 {
+	top: 360px;
+	left: 170px;
+}
+.hoitopolku_sub_head3 {
+	top: 600px;
+	left: 182px;
+}
+.hoitopolku_sub_head4 {
+	bottom: 220px;
+	left: 164px;
+}
+.hoitopolku_sub_head5 {
+	bottom: 46px;
+	left: 170px;
+}
+.hoitopolku_box1 {
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	top: 40px;
+	left: 280px;
+	line-height: 16px;
+}
+.hoitopolku_box1 li, .hoitopolku_box3 li {
+	position: relative;
+	padding: 0 0 0 12px;
+	font-size: 0.75em;
+	color: #ffffff;
+	list-style: none;
+}
+.hoitopolku_box1 li:first-child, .hoitopolku_box7 li:first-child, .hoitopolku_box8 li:first-child, .hoitopolku_box9 li:first-child {
+	padding: 0;
+}
+.hoitopolku_box1 li span, .hoitopolku_box2 li span, .hoitopolku_box3 li span, .hoitopolku_box4 li span, .hoitopolku_box5 li span, .hoitopolku_box6 li span, .hoitopolku_box7 li span, .hoitopolku_box8 li span, .hoitopolku_box9 li span, .hoitopolku_box10 li span {
+	position: absolute;
+	top: 0;
+	left: 0px;
+}
+.hoitopolku_box2 {
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	top: 40px;
+	left: 540px;
+	line-height: 16px;
+}
+.hoitopolku_box2 li > ul, .hoitopolku_box3 li > ul {
+	margin: 0;
+	padding: 0;
+}
+.hoitopolku_box2 li > ul li, .hoitopolku_box3 li > ul li {
+	padding-left: 5px;
+}
+.hoitopolku_box2 li, .hoitopolku_box4 li, .hoitopolku_box4 li, .hoitopolku_box5 li, .hoitopolku_box6 li, .hoitopolku_box7 li, .hoitopolku_box8 li, .hoitopolku_box9 li, .hoitopolku_box8 li, .hoitopolku_box10 li, .hoitopolku_box11, .hoitopolku_box12, .hoitopolku_box13, .hoitopolku_box14, .hoitopolku_box15 {
+	position: relative;
+	padding: 0 0 0 12px;
+	font-size: 0.75em;
+	color: #ffffff;
+	list-style: none;
+}
+.hoitopolku_box3, .hoitopolku_box4, .hoitopolku_box5, .hoitopolku_box6, .hoitopolku_box7, .hoitopolku_box8, .hoitopolku_box9, .hoitopolku_box10, .hoitopolku_box11, .hoitopolku_box12, .hoitopolku_box13, .hoitopolku_box14, .hoitopolku_box15 {
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	line-height: 16px;
+}
+.hoitopolku_box3 {
+	top: 40px;
+	right: 240px;
+}
+.hoitopolku_box4 {
+	top: 253px;
+	left: 282px;
+}
+.hoitopolku_box5 {
+	top: 273px;
+	left: 537px;
+}
+.hoitopolku_box6 {
+	top: 275px;
+	left: 902px;
+}
+.hoitopolku_box7 {
+	bottom: 355px;
+	left: 282px;
+}
+.hoitopolku_box8 {
+	bottom: 345px;
+	left: 572px;
+}
+.hoitopolku_box9 {
+	top: 533px;
+	left: 789px;
+}
+.hoitopolku_box10 {
+	bottom: 215px;
+	left: 439px;
+}
+.hoitopolku_box11 {
+	bottom: 228px;
+	right: 140px;
+}
+.hoitopolku_box12 {
+	bottom: 48px;
+	left: 310px;
+}
+.hoitopolku_box13 {
+	bottom: 65px;
+	left: 511px;
+}
+.hoitopolku_box14 {
+	bottom: 65px;
+	left: 715px;
+}
+.hoitopolku_box15 {
+	bottom: 63px;
+	left: 908px;
+}
+/*Footer box*/
+.footer_top_img {
+	/*width: 50%;
+	margin: 0 auto;*/
+}
+.footer_top_cnt {
+	font-size: 1em;
+	color: #ffffff;
+	text-align: center;
+/*	margin: auto 65px;*/
+}
+.footer_top_cnt a {
+	color: #ffffff;
+}
+.footer_menus ul li a:hover {
+	text-decoration: none;
+}
+.footer_menus_last ul li a:hover {
+	text-decoration: none;
+}
+.footer_menus ul {
+	margin: 0px 50px;
+	padding: 0;
+}
+.footer_menus ul li, .footer_menus_last ul li {
+	list-style: none;
+	margin-bottom: 10px;
+}
+.footer_menus ul li a, .footer_menus_last ul li a {
+	color: #d52b1e;
+	font-size: 1em;
+}
+.footer_menus_last ul {
+	margin: 0px 80px;
+	padding: 0;
+}
+.footer_links ul {
+	margin: 0;
+	padding: 0;
+}
+.footer_links ul li {
+	list-style: none;
+	float: left;
+	line-height: 3.5;
+}
+.footer_links ul li a {
+	color: #fff;
+	font-size: 0.7em;
+	padding: 0 12px;
+}
+.disable a {
+	color: #82786f !important;
+}
+.active .home_ico {
+	background: url(../images/home.png) !important;
+}
+.main_menu_nav>li:first-child:hover .home_ico {
+	background: url(../images/home.png) !important;
+}
+.top_blue_curve {
+	position: relative;
+	margin-left: -15px;
+	width: 49%;
+	height: 70px;
+	margin-bottom: 70px;
+}
+.top_curve_box {
+	background-image: url(../images/curve_bg.png);
+	background-repeat: repeat-x;
+	width: 84.7%;
+	height: 70px;
+	position: absolute;
+	left: 0;
+	top: 0;
+	color: #fff;
+	font-size: 1.7em;
+	text-align: right;
+	line-height: 2.5;
+	font-family: 'DINPro-Medium';
+}
+.top_curve_right {
+	position: absolute;
+	right: 0;
+	top: 0;
+	width: 15.4%;
+	height: 70px;
+	background-image: url(../images/curve1.png);
+	background-repeat: no-repeat;
+	background-position: 0 0;
+	background-size: 90px;
+}
+.search_nav {
+	opacity: 0;
+}
+.only_nav {
+	display: none !important;
+}
+.materiaalit_pdf_cnt {
+	float: left;
+	line-height: 2.2;
+}
+.materiaalit_pdf_btn {
+	float: right;
+}
+/* Checkbox*/
+.icheckbox_square-green {
+	display: inline-block;
+	top: -10px;
+	left: -5px;
+ *display: inline;
+	vertical-align: middle;
+	margin: 0;
+	padding: 0;
+	width: 20px;
+	height: 20px;
+	background: url(../images/blue_.png) no-repeat;
+	border: none;
+	cursor: pointer;
+	background-position: 0 0;
+}
+/*.icheckbox_square-green.hover {
+	background-position: -24px 0;
+}*/
+.icheckbox_square-green.checked {
+	background-position: -39px 0;
+}
+.icheckbox_square-green.disabled {
+	background-position: -72px 0;
+	cursor: default;
+}
+.icheckbox_square-green.checked.disabled {
+	background-position: -96px 0;
+}
+.checkbox input[type="checkbox"], .checkbox input[type="radio"] {
+	opacity: 0;
+	z-index: 1;
+}
+/*********new css************/
+.footer_links ul li{
+	border-left:2px solid #fff;
+}
+.footer_links ul li:first-child{
+	border-left:0;
+}
+.top_fixed_logo {
+	position: relative;
+	width: 282px;
+	height: 46px;
+	margin: 0 0 18px 0;
+}
+.tab_cnt {
+	min-height: 230px;
+}
+.diagnosointi_md_container h1 {
+	font-weight: bold;
+}
+.diagnosoint_block1_sub_cnt {
+	text-align: center;
+	font-weight: bold;
+}
+.seuranta_pg_cnt a, .securanta_side_cir1 a {
+	font-family: 'DINPro-Medium';
+}
+.main_menu_nav>li a:first-child:hover .glyphicon-home:before {
+	top: -14px;
+	right: 8px;
+}
+.main_menu_nav>li:first-child:hover .glyphicon-home:before {
+	top: -14px;
+	right: 8px;
+}
+.main_menu_nav .glyphicon-home:before {
+	top: -14px;
+	right: 8px;
+}
+.main_menu_nav .active .glyphicon-home:before {
+	top: -14px;
+	right: 8px;
+}
+.mil_sub_tabs{
+	padding:0 20px 0 20px;	
+}
+.card-header h5 a{
+	font-size:13px;
+	color:#000000;
+	text-transform:uppercase;
+	display: block;
+	text-decoration:none;
+}
+.card-header h5 a:hover{
+	background:none;	
+	color:#000000;
+	text-decoration:none;
+}
+.card-header h5{
+	background-color:#e1dfda;
+	padding:10px 10px;
+	border-radius: 5px;
+	position: relative;
+	text-decoration:none;
+}
+.mil_sub_tabs ul li{
+	position: relative;	
+	list-style:block;
+	
+}
+.mil_sub_tabs ul li{
+	list-style:none;	
+}
+.mil_sub_tabs ul{
+	padding: 0 0px 0 22px;	
+}
+.mil_sub_tabs ul li span, .seur_laak_mid_block ul li span{
+	position: absolute;
+	content: '';
+	background-image: url(../images/arrow.png);
+	left: -16px;
+    top: 6px;
+	background-size: 8px;
+	background-repeat: no-repeat;
+	width: 8px;
+	height: 14px;	
+}
+.mil_sub_tabs li > ul > li:before {
+    position: absolute;
+    content: '•';
+    font-size: 1em;
+    color: #000000;
+    left: -13px;
+    top: 0px;
+}
+.tab_minus{
+    width: 18px;
+    height: 16px;
+    position: absolute;
+    right: 40px;
+    text-align: center;
+    font-size: 16px;
+	border-radius: 5px;
+    top: 8px;
+	background-color: #000;
+}
+.tab_plus{
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    right: 40px;
+    text-align: center;
+    font-size: 16px;
+	border-radius: 5px;
+	top: 8px;
+	background-color: #000;
+}
+/*.tab_minus:after{content:"-"; color:#fff;}
+.tab_plus:after{content:"+"; color:#fff;}*/
+
+.mb-0 > a.collapsed:after {
+	content: '+';
+	position: absolute;
+	width: 20px;
+    height: 20px;
+    position: absolute;
+    right: 40px;
+    text-align: center;
+    font-size: 16px;
+	border-radius: 5px;
+	top: 8px;
+	background-color: #fff;
+	color: #82786e;
+}
+
+.mb-0 > a:after {
+ 	content: '-';
+	position: absolute;
+	width: 20px;
+    height: 20px;
+    position: absolute;
+    right: 40px;
+    text-align: center;
+    font-size: 16px;
+	border-radius: 5px;
+	top: 8px;
+	background-color: #fff;
+	color: #82786e;
+}
+
+.mil_sub_tabs h5:after{
+	background: #000000;	
+	color: #ffffff;
+}
+.card_colo h5:after{
+	background: #ffffff;	
+	color: #82786f;
+}
+.checklist_bottom li p{
+	text-align:center;	
+	 font-size: 1.2em;
+}
+.dig_btm_cnt{
+	margin:10px 0 0 0;	
+}
+.dig_btm_block{	
+    float: right;
+	width:100%;
+	text-align:center;
+    margin: 0 0 20px 0px;
+}
+.dig_btm_block figure{
+    /*margin: 0 147px;*/	
+}
+.dig_btm_block h3{
+	margin:20px 0;
+	font-size:1.2em;
+	
+}
+.dig_btm_fig_cnt{
+	position: relative;
+	font-size: 1.0em;
+	line-height:2;
+	padding: 5px 0 0 0;
+    text-align: center;
+	color: #000000;
+}
+.dig_btm_cnt p{
+	font-size: 1em;	
+}
+.dig_cir{
+    width: 80px;
+    height: 80px;	
+	border-radius: 50%;
+}
+.dig_cir_right{
+	background-size: 48px;
+	background: url(../images/seuranta_logo4.png) no-repeat;
+    background-color: #263f6a;
+    background-position: center;	
+	    margin: 0 auto;
+}
+.dig_cir_left{
+	background-size: 48px;
+    background: url(../images/seuranta_logo1.png) no-repeat;
+    background-color: #4aa7c9;
+    background-position: center;
+    margin: 0 auto;	
+}
+.seur_laak_mid_block{
+	float:left;
+	background-color:#ffffff;	
+	width: 100%;
+}
+.seur_laak_mid_block h3{
+	font-size:1.2em;
+	text-align:center;	
+}
+.seur_laak_mid_tab{
+	float:left;	
+	width: 100%;
+    /*height: 420px;*/
+}
+.seur_laak_mid_tab table{
+	width:80%;
+	height:auto;
+    margin: 0 93px;
+}
+.seur_laak_mid_tab table tr td{
+    border: 2px solid #a0a0a0;	
+}
+.seur_laak_mid_tab table thead{
+	background-color:#d52b1e;
+	color:#ffffff;
+	text-align:center;	
+}
+.seur_laak_mid_block ul{
+	float:left;	
+	padding:0 105px;
+    margin-bottom: 30px;
+}
+.seur_laak_mid_block ul li:first-child{
+	list-style:none;	
+}
+.seur_laak_mid_block ul li{
+	position:relative;
+	font-size:1.12em;	
+}
+.mil_link1{
+	margin-top:140px;	
+}
+.card_colo{
+	background-color:#ffffff;	
+}
+.card_colo h5{
+	background-color:#82786f;	
+	border-radius: 0px;
+	
+}
+.card-block ul li a:hover{
+	background-color: transparent;
+    color: #337ab7;	
+}
+.card_colo h5 a, .card_colo h5 a:hover{color:#ffffff;}
+.akuutit_pg{
+    background-size: 90px;	
+    width: 150px;
+    height: 150px;
+	margin-top: 20px;
+	background: url(../images/komp_bottom_img1_pg.png) no-repeat;
+    background-position: center;
+    background-color: #FFFFFF;
+	position: relative;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    margin: auto;
+    z-index: 2;
+    border-radius: 50%;
+    border: 8px solid #e0e1db;
+}
+.diabeetikon_pg{
+    background-size: 90px;	
+    width: 150px;
+    height: 150px;
+	margin-top: 20px;
+	background: url(../images/diabeetikon_pg.png) no-repeat;
+    background-position: center;
+    background-color: #FFFFFF;
+	position: relative;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    margin: auto;
+    z-index: 2;
+    border-radius: 50%;
+    border: 8px solid #e0e1db;
+}
+.diabeteksen_pg{
+    background-size: 90px;	
+    width: 150px;
+    height: 150px;
+	margin-top: 20px;
+	background: url(../images/diabeteksen_pg.png) no-repeat;
+    background-position: center;
+    background-color: #FFFFFF;
+	position: relative;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    margin: auto;
+    z-index: 2;
+    border-radius: 50%;
+    border: 8px solid #e0e1db;
+}
+.iakkaiden_pg{
+    background-size: 90px;	
+    width: 150px;
+    height: 150px;
+	margin-top: 20px;
+	background: url(../images/iakkaiden_pg.png) no-repeat;
+    background-position: center;
+    background-color: #FFFFFF;
+	position: relative;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    margin: auto;
+    z-index: 2;
+    border-radius: 50%;
+    border: 8px solid #e0e1db;
+}
+.kuljetusalan_pg{
+    background-size: 90px;	
+    width: 150px;
+    height: 150px;
+	margin-top: 20px;
+	background: url(../images/kuljetusalan_pg.png) no-repeat;
+    background-position: center;
+    background-color: #FFFFFF;
+	position: relative;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    margin: auto;
+    z-index: 2;
+    border-radius: 50%;
+    border: 8px solid #e0e1db;
+}
+.akuutit_cnt{padding-right: 22px; padding-bottom: 15px;}
+.akuutit_cnt h2{font-size:1.25em; color:#000000; text-align:center;}
+.akuutit_cnt ul > li ul{padding: 0 0 0 35px;}
+.akuutit_cnt ul li{font-size:1.12em; line-height: 1.3; margin-bottom:10px; margin-right: 30px;}
+.akuutit_cnt ul li ul li{font-size:1em;}
+.akuutit_cnt h4{font-size:1.12em; margin:15px 0 0 0; font-weight:bold;}
+.akuutit_spec2{border:1px solid black; margin:10px 0 0 0; padding: 5px 10px; font-weight:bold;}
+/*.akuutit_cnt ul > li > ul >li:nth-child(5){border:0; padding:0; margin:0; font-weight:100;}*/
+ 
+.akuutit_cnt_grp{position:relative; background:url(../images/akuutit_graph.png) no-repeat; background-size:contain; width:68%; height:365px; margin: 0 auto;} 
+.akuutit_cnt ul li p{margin:10px 0;}
+.akuutit_undlin{text-decoration:underline;}
+.akuutit_spec1 li{line-height:1.2; margin-bottom:10px;}
+.akuutit_spec3{margin-bottom:10px;}
+
+.diabeet_cnt_spec1{padding-left: 22px;}
+.diabeet_cnt_spec2{margin-top:10px;}
+.diabeet_cnt_spec3{margin-bottom:10px;}
+.diabeet_cnt ul li{margin-bottom:10px; line-height:1.2}
+.diabeet_cnt ul li > ul >li{margin-bottom:5px; line-height:1.2; font-size:1em;}
+.diabeet_cnt h2{text-decoration:underline; padding-left: 22px;}
+.diabeet_cnt_head{text-decoration:underline;}
+.diab_num ol li span{background-image: none; top: 0px; left: -20px;}
+.diab_num ol li{font-size:1em;}
+.diabeteksen_img{background:url(../images/diabeteksen_img.png) no-repeat; background-size:contain; width:100%; height:223px;}
+.diab_tab table tr td ,.diab_ksen2 table tr td{border: 2px solid #a0a0a0;}
+.diab_tab table, .diab_ksen2{border-top: 2px solid #a0a0a0;}
+.diab_tab thead, .diab_ksen2 thead{font-weight:bold;}
+.diabeet_cnt_underline{position:relative !important; background-image:none !important; left:0 !important; top:0 !important; text-decoration:underline;}
+.diab_ksen{border:2px solid #000000; padding:10px; margin:10px 0 10px 0; font-size:1.12em;}
+.diab_ksen1{font-weight:bold; text-align:center; margin: 0 80px;}
+.iakkaiden_sub_head{float:left; font-size:1.37em; padding: 0px 20px; text-decoration:underline;}
+.diabeet_cnt_spec2 > ul > li > ul > li:before{content:'o'; position: absolute; font-size: 1.12em; color: #000000; left: -12px;  top: -2px;}
+.diabeet_cnt_spec4 > ul > li:before{content:'o' !important; position: absolute; font-size: 1.12em; color: #000000; left: -12px;  top: -2px;}
+
+.diabeet_cnt_spec4 > ul > li > ul > li:before{content:'■' !important; position: absolute; font-size: 0.8em; color: #000000; left: -12px;  top: -2px;}
+
+.diabeet_cnt_spec5 > ul > li:before{content:'-' !important; position: absolute; font-size: 1.12em; color: #ffffff; left: -12px;  top: -2px;}
+.diabeet_cnt_spec5 > ul > li > ul > li:before{content:'■' !important; position: absolute; font-size: 0.8em; color: #ffffff; left: -12px;  top: -2px;}
+
+.diabeet_cnt_spec6 > ul > li:before{content:'o' !important; position: absolute; font-size: 1.12em; color: #000000; left: -12px;  top: -2px;}
+
+.diabeet_cnt_spec6 > ul{padding:0 0 0 12px;}
+
+.mil_line a{text-decoration:underline;}
+.akuutit_cnt1 ul li span{position: absolute;
+    top: 4px;
+    left: -11px;
+    content: '';
+    background-repeat: no-repeat;
+    width: 8px;
+    height: 14px; background-image: none;}
+.akuutit_cnt1 ul{list-style:none;}
+
+.search_block{float:left; background-color:#ffffff; padding: 10px 30px; width: 100%; margin: 20px 0 20px 0;}
+.search_block article{border-bottom:1px solid #a0a0a0;}
+.search_block article h1{font-size1.56em; font-family: 'DINPro-Bold'; color:#82786f; font-size:1.56em;}
+.search_block article h4{font-size1.12em; font-family: 'DINPro-Medium'; color:#d52b1e; margin: 5px 0 0 0; text-decoration:underline;}
+.search_block article p{font-size0.87em; font-family: 'DINPro'; color:#82786f; margin: 0 0 20px 0;}
+.search_block ul{list-style:none; margin: 20px 0 20px 0;
+    padding: 0;}
+.search_block ul li{z-index: 2; color: #ffffff; cursor: default; border-color: #428bca; display:inline; padding: 5px;
+    border-radius: 4px; font-family: 'DINPro-Medium'; font-size:1.12em;}
+	
+.affix {
+      top: 0;
+      width: 100%;
+      position:fixed;
+      z-index: 100;
+  }
+
+  .affix + .container-fluid {
+      padding-top: 70px;
+  }
+.tipue_search_content_title a{font-size1.12em; font-family: 'DINPro-Medium'; color:#d52b1e; margin: 5px 0 0 0; text-decoration:underline;}
+.search_block article:last-child {border-bottom: 0;}
+.diag_lin{background-color:transparent !important; border-radius:0 !important; padding:0 !important; margin:0 !important; text-decoration:underline; border:none !important;}
+.red_circle1{padding: 21px 7px;}
+.kuljetus_sub_head{position: absolute;
+    content: "o";
+    font-size: 1em;
+    color: rgb(0, 0, 0);
+    left: -13px;
+    top: 0px;}
+.isi_cnt{
+    height: 300px;
+    position: relative;}
+	
+.base{height:300px; z-index: 3;}
+.yhtesyst_block{float:left; background-color:#fff; padding:20px 10px; margin: 30px 0 0 0;}
+.yhtesyst_block ul{list-style:none;}
+.yhtesyst_block ul li{font-family: 'DINPro'; font-size:1em; line-height:18px; color:#82786f; margin-bottom:10px;}
+.diab_top_cnt{font-size:1em;   line-height:18px; margin: 0 20px; background-color: #ffffff;  padding: 10px;}
+.diab_top_cnt a{color:#000; font-family: 'DINPro'; margin:0 0 0 0; }
+.diab_top_cnt a:hover{text-decoration:underline;}
+/*******responsive css*****/
+@media screen and (min-width: 1200px){
+.container {
+    width: 960px;
+}
+.row_color3 {
+    padding: 30px 0 !important;
+}
+}
+@media screen and (min-width: 1024px){
+.row_color3 {
+    padding: 30px 0 !important;
+}
+}
+@media screen and (min-width: 992px){
+.footer_links ul li a {
+    font-size: 0.8em !important;
+    padding: 0 8px !important;
+}	
+.footer_links ul {
+    margin: 24px 0 0 8px !important;
+    display: block;
+}	
+.container {
+    width: 960px;
+}
+.row_color3 {
+    padding: 30px 0 !important;
+}
+.footer_top_img {
+    /* width: 112px !important;*/
+}
+.footer_top_cnt {
+    font-size: 1em;
+}
+.row_color4 {
+    padding: 20px 0;
+}
+.mil_img {
+    width: 160px !important;
+}
+.mil_link {
+   /* margin: 50px 0 20px 0 !important;*/
+}
+.footer_menus ul li a, .footer_menus_last ul li a {
+     font-size: 0.9em;
+}
+.footer_links ul li {
+    line-height: 1 !important;
+}
+}
+
+.zinc_number{	
+	color: #fff;
+    font-size: 0.8em;
+    padding-left: 0px;
+    padding-top: 2px;
+    border-left: 0 !important;
+    font-family: 'DINPro-Medium'
+}
+/*POP Up*/
+.link_popup{position:absolute; width:614px; height:142px;}
+.link_layout{position:relative; background-image:url(../images/popup_bg.png) }
+.close_popup{position: relative; top: 5px; right: 10px; color: transparent; background-color: #d73327 !important;  padding: 0px 7px 7px !important; border-radius: 20px; opacity: 1; z-index:100;}
+.close_popup:hover{position: relative; top: 5px; right: 10px; color: transparent; background-color: #d73327 !important;  padding: 0px 7px 7px !important; border-radius: 20px; opacity: 1; z-index:100;}
+
+.popup_button{position: relative; padding: 20px 10px; width: 60%; margin: 0 auto;}
+.popup_btn_left{background-color:#00af3f; color:#ffffff; position:relative; left:10px; padding: 5px 25px;}
+.popup_btn_right{background-color:#d52b1e; color:#ffffff; position: absolute; right: 20px; padding: 5px 15px;}
+.popup_block{position: absolute; background-color: #a59d95; width: 100%; height: 220px; border-radius: 5px;}
+.popup_cnt{color:#ffffff; margin: 30px 10px 0 10px; font-family: 'DIN-Medium'; font-size:0.87em;}
+.mil_link2 a{color:#00BCD4; }
+.mil_link2 a:hover{text-decoration:underline;}
+.mil_cnt2 ul li strong{font-size:1.1em;}
+#epd{position: relative; z-index: 999 ;     margin-left: -15px;
+    margin-right: -15px;}
+/*.removeTop {    margin: 10px 0px 5px 0 !important; }*/
+.removeTop1 {    margin-top: 0;}
+.return_to_page{
+	float:left;
+}
+.go_to_link{
+	float:right;
+}
+.footer_links ul li:nth-child(5) a:hover{text-decoration:none; cursor: default;}
+.footer_links ul li:nth-child(5) a{text-decoration:none; cursor: default;}
+
+
+.img_circle{
+width: 100%;
+display: block;
+-webkit-border-radius: 50%;
+-moz-border-radius: 50%;
+border-radius: 50%;
+padding:0px;
+border:none;
+	}
+	
+.card-header h5 a:hover{}
+.box1, .box2, .box3{background-size:cover !important; width:164px; height:164px; margin: 0 auto;}
+.box1{background:url(../images/box1.png) no-repeat;}
+.box2{background:url(../images/box2.png) no-repeat;}
+.box3{background:url(../images/box3.png) no-repeat;}
+
+.first_img, .second_img, .third_img, .fourth_img, .fifth_img { background-size:cover !important; width:112px; height:118px; margin: 0 auto;}
+.first_img{background:url(../images/footer_box1.png) no-repeat;}
+.second_img{background:url(../images/footer_box2.png) no-repeat;}
+.third_img{background:url(../images/footer_box3.png) no-repeat;}
+.fourth_img{background:url(../images/footer_box4.png) no-repeat;}
+.fifth_img{background:url(../images/footer_box5.png) no-repeat;}
+.laakarin_cnt2 li ul{padding:0 0 0 12px; position:relative;}
+.laakarin_cnt2 li ul li{list-style-type:none;}
+.laakarin_cnt2 li ul li:before{position: absolute; background-image: none; content: '•'; font-size: 1em; color: #000000; left: -13px;  top: 0px;}
+.yhtesyst_block ul li h1{font-family: 'DINPro'; font-size: 1em; line-height: 10px; color: #82786f; font-weight:bold;}
+
+.komplikaatiot_circle figure, .komplikaatiot_pg figure, .komplikaatiot_pg figure, .kuljetusalan_img2 figure{    display: inline-block;
+    margin: 0 auto;
+    border-radius: 50%;
+    overflow: hidden;
+    padding: 0;}
+	
+	.komplikaatiot_pg, .komplikaatiot_circle{margin:0 auto; text-align:center;}
+	.komplikaatiot_pg figure, .komplikaatiot_circle figure {
+	overflow: hidden;
+    display: inline-table;
+	border-radius:50%;}
+	
+	.komplikaatiot_pg figure a, .komplikaatiot_circle figure a{
+	overflow: hidden;
+    display: inline-block;
+	border-radius:50%;}
+	.erityispotilaat_circle{margin:0 auto; text-align:center;}
+	.erityispotilaat_circle figure{width:auto;}
+	.erityispotilaat_circle figure a{display: inline-block;
+    border-radius: 50%;
+    overflow: hidden;}
+.top_search input{color:#d52b1e;}
+/*.footer_links ul li:last-child{color: #fff; font-size: 0.8em; padding: 0 8px; font-family: 'DINPro-Medium';}*/
+
+/*input[placeholder], [placeholder], *[placeholder] {
+   color: #bdaea9;  
+}*/
+input:-webkit-input-placeholder { color: #bdaea9; opacity: 1 !important; }
+input::-moz-placeholder { color: #bdaea9;}
+input:-moz-placeholder {color: #bdaea9;}
+input:-ms-input-placeholder {color: #bdaea9;}
+.footer_links{    
+	float: right;
+    width: auto;
+    display: block;
+}
+.fixed{
+	position: fixed;
+}
+.relative{
+	position: relative;
+}
+.affix.fixed { left: 0;}
