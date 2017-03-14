@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /
+Sitemap: https://buit-eucan-fn-diab-pathway-dev.herokuapp.com/sitemap.xml
+

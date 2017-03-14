@@ -1,0 +1,22 @@
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+
+<script>
+
+function getTokenFromHash(url) {
+  var match = url.match(/#.*id_token=([^&]+)(&|$)/);
+  return(match ? match[1] : "");
+}
+
+var token = getTokenFromHash(window.location.hash);
+console.log(token);
+$.ajax({
+  type: "POST",
+  url: "/auth/token",
+  data: {
+    token:token,
+  },
+  success: function() {
+    window.location ='/verify'
+  },
+});
+</script>
